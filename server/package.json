@@ -1,0 +1,26 @@
+{
+  "name": "people-server",
+  "version": "1.0.0",
+  "description": "Api for the people web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easmith03/people-web.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Eric A. Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easmith03/people-web/issues"
+  },
+  "homepage": "https://github.com/easmith03/people-web#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1"
+  }
+}
